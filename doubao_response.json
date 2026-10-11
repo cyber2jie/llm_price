@@ -1,0 +1,116 @@
+{
+  models: [
+    {
+      icon: l.modelDoubao,
+      id: "doubao-seed-2-1-pro-260628",
+      chip: "doubao-seed-2-1-pro-260628",
+      name: "Doubao-Seed-2.1-pro",
+      desc: "\u9762\u5411\u751F\u4EA7\u7EA7\u4EFB\u52A1\uFF0C\u5168\u9762\u5347\u7EA7\u7F16\u7A0B\u3001\u667A\u80FD\u4F53\u4E0E\u591A\u6A21\u6001\u80FD\u529B",
+      specs: [
+        {
+          label: "\u8F93\u5165/\u8F93\u51FA\u7C7B\u578B",
+          value: "\u6587\u672C\u3001\u56FE\u50CF\u3001\u89C6\u9891 / \u6587\u672C"
+        },
+        {
+          label: "\u8F93\u5165\u4EF7\u683C",
+          value: "6",
+          tip: "\u5143/\u767E\u4E07 tokens"
+        },
+        {
+          label: "\u8F93\u51FA\u4EF7\u683C",
+          value: "30",
+          tip: "\u5143/\u767E\u4E07 tokens"
+        },
+        {
+          label: "\u4E0A\u4E0B\u6587\u7A97\u53E3",
+          value: "256k"
+        },
+        {
+          label: "\u6700\u5927\u8F93\u51FA",
+          value: "256k"
+        }
+      ]
+    },
+    {
+      icon: l.modelVideo,
+      id: "doubao-seedance-2-0-260128",
+      chip: "doubao-seedance-2-0-260128",
+      name: "Doubao Seedance 2.0",
+      desc: "\u8D85\u5F3A\u7684\u53C2\u8003\u4E00\u81F4\u6027\uFF0C\u6781\u81F4\u62DF\u771F\u7684\u89C6\u542C\u7A33\u5B9A\u6027",
+      specs: [
+        {
+          label: "\u8F93\u5165/\u8F93\u51FA\u7C7B\u578B",
+          value: "\u6587\u672C\u3001\u56FE\u50CF\u3001\u89C6\u9891\u3001\u97F3\u9891 / \u89C6\u9891"
+        },
+        {
+          label: "\u8F93\u5165\u4EF7\u683C",
+          value: "16-31",
+          tip: "\u5143/\u767E\u4E07 tokens"
+        },
+        {
+          label: "\u8F93\u51FA\u4EF7\u683C",
+          value: "26-51",
+          tip: "\u5143/\u767E\u4E07 tokens"
+        },
+        {
+          label: "\u89C6\u9891\u5206\u8FA8\u7387",
+          value: "480, 720, 1080"
+        },
+        {
+          label: "RPM",
+          value: "0.6,0.015",
+          tip: "k"
+        }
+      ]
+    },
+    {
+      icon: l.modelImage,
+      id: "doubao-seedream-5-0-pro-260628",
+      chip: "doubao-seedream-5-0-pro-260628",
+      name: "Doubao-Seedream-5.0-pro",
+      desc: "\u7CBE\u51C6\u56FE\u50CF\u7F16\u8F91\uFF0C\u89E3\u9501\u56FE\u5C42\u81EA\u7531",
+      specs: [
+        {
+          label: "\u8F93\u5165/\u8F93\u51FA\u7C7B\u578B",
+          value: "\u6587\u672C\u3001\u56FE\u50CF / \u56FE\u50CF"
+        },
+        {
+          label: "\u8F93\u5165\u4EF7\u683C",
+          value: "0.02",
+          tip: "\u5143/\u5F20"
+        },
+        {
+          label: "\u8F93\u51FA\u4EF7\u683C",
+          value: "0.3",
+          tip: "\u5143/\u5F20"
+        },
+        {
+          label: "IPM",
+          value: "500"
+        }
+      ]
+    },
+    {
+      icon: l.modelSpeech,
+      id: "doubao-streaming-asr",
+      chip: "Doubao-Seed-ASR-Stream",
+      name: "Doubao-\u6D41\u5F0F\u8BED\u97F3\u8BC6\u522B\u672C\u5730",
+      desc: "\u8C46\u5305\u8BED\u97F3\u8BC6\u522B\u6A21\u578B\uFF0C\u652F\u6301\u6D41\u5F0F\u8BED\u97F3\u8BC6\u522B",
+      specs: [
+        {
+          label: "\u8F93\u5165/\u8F93\u51FA\u7C7B\u578B",
+          value: "\u97F3\u9891 / \u6587\u672C"
+        },
+        {
+          label: "\u63A8\u7406\u5B9A\u4EF7",
+          value: "4.5",
+          tip: "\u5143/\u5C0F\u65F6"
+        },
+        {
+          label: "\u6A21\u578B\u9650\u5236",
+          value: "QPS 10"
+        }
+      ]
+    }
+  ]
+}
